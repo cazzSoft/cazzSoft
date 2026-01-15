@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="https://media.licdn.com/dms/image/D4E16AQHiJyebJJVmlQ/profile-displaybackgroundimage-shrink_350_1400/0/1718733128698?e=1727308800&amp;v=beta&amp;t=g3rG6nXyQ3ptieHvoQkpvfYNV-xnh1C8CMnrqqct4e8" alt="Cristhian Zambrano Zambrano" id="ember566" class="full-width evi-image ember-view">
 
 
 - 📫 How to reach me: ...
